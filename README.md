@@ -19,6 +19,7 @@
 - Opencv
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
   - [SLAM-Book](https://github.com/lh9171338/SLAM-Book)
+  - [Camera-Calibration](https://github.com/lh9171338/Camera-Calibration)
   - [Fiducial-Marker](https://github.com/lh9171338/Fiducial-Marker)
   - [Bottle-Detection](https://github.com/lh9171338/Bottle-Detection)
   
@@ -29,10 +30,14 @@
   
 - FPGA
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
-  - [HLS](https://github.com/lh9171338/HLS)  
+  - [HLS](https://github.com/lh9171338/HLS)
   
 - MFC
-  - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
+
+  
+- Android
+  - [Bluebooth](https://github.com/lh9171338/Bluebooth)
+  - [Joypad](https://github.com/lh9171338/Joypad)  
   
 - Forked
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
