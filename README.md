@@ -7,7 +7,7 @@
   - [Dijkstra](https://github.com/lh9171338/Dijkstra)
   - [PID](https://github.com/lh9171338/PID/tree/ROS)
   - [UAV-UGV-Target-Search](https://github.com/lh9171338/UAV-UGV-Target-Search)
-  - [Camera](https://github.com/lh9171338/Camera)(Empty)  
+  - [Camera](https://github.com/lh9171338/Camera)(Empty)
   
 - Matlab
   - [SIFT](https://github.com/lh9171338/SIFT)
