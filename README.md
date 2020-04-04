@@ -15,6 +15,7 @@
   - [Path-Planning-Algorithms](https://github.com/lh9171338/Path-Planning-Algorithms)
   - [Signal-Processing-Algorithms](https://github.com/lh9171338/Signal-Processing-Algorithms)
   - [PID](https://github.com/lh9171338/PID/tree/Matlab)
+  - [RIFT]
   
 - Opencv
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
@@ -22,6 +23,9 @@
   - [Camera-Calibration](https://github.com/lh9171338/Camera-Calibration)
   - [Fiducial-Marker](https://github.com/lh9171338/Fiducial-Marker)
   - [Bottle-Detection](https://github.com/lh9171338/Bottle-Detection)
+  - [Curve-Fitting](https://github.com/lh9171338/Curve-Fitting)
+  - [Structured-Edge-Detection](https://github.com/lh9171338/Structured-Edge-Detection)
+  - [RIFT]
   
 - Python
   - [PyTorch](https://github.com/lh9171338/PyTorch)(private)
