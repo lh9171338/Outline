@@ -17,9 +17,8 @@
 - Opencv
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
   - [SLAM-Book](https://github.com/lh9171338/SLAM-Book)
-  - [Fiducial-Marker](https://github.com/lh9171338/Fiducial-Marker)
+  - [Fiducial-Marker](https://github.com/lh9171338/Fiducial-Marker)(failed)
   - [Bottle-Detection](https://github.com/lh9171338/Bottle-Detection)
-  - [Fiducial-Marker](https://github.com/lh9171338/Fiducial-Marker)
 - Python
   - [PyTorch](https://github.com/lh9171338/PyTorch)(private)
   - [TensorFlow](https://github.com/lh9171338/TensorFlow)(private)
