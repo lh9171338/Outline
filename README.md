@@ -7,7 +7,7 @@
   - [Dijkstra](https://github.com/lh9171338/Dijkstra)
   - [PID](https://github.com/lh9171338/PID)
 - Matlab
-  - [PID](https://github.com/lh9171338/PID)
+  - [SIFT](https://github.com/lh9171338/SIFT)
 - Opencv
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
 - Python
