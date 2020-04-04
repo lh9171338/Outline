@@ -40,7 +40,7 @@
 
   
 - Android
-  - [Bluebooth](https://github.com/lh9171338/Bluebooth)
+  - [Bluebooth](https://github.com/lh9171338/Bluetooth)
   - [Joypad](https://github.com/lh9171338/Joypad)  
   
 - Forked
