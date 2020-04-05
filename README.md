@@ -1,5 +1,8 @@
 # Outline
-[<img class="avatar" height="20" width="20" alt="@lh9171338" src="https://avatars1.githubusercontent.com/u/39734819?s=60&amp;u=ec6f5d4fbb3e46f07266e937b264aa504a671f98&amp;v=4" />lh9171338](https://github.com/lh9171338/Outline)
+[<div class="AvatarStack-body" aria-label="lh9171338">
+        <a class="avatar" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/lh9171338/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lh9171338">
+          <img height="20" width="20" alt="@lh9171338" src="https://avatars1.githubusercontent.com/u/39734819?s=60&amp;u=ec6f5d4fbb3e46f07266e937b264aa504a671f98&amp;v=4" class="" />
+</a>  </div>](https://github.com/lh9171338/Outline)
 
 
 ---
