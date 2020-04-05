@@ -1,5 +1,5 @@
 # Outline
-[![image](https://github.com/lh9171338/Outline/blob/master/icon.jpg)](https://github.com/lh9171338/Outline)  
+[![image](https://github.com/lh9171338/Outline/blob/master/icon.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)](https://github.com/lh9171338/Outline)  
 
 
 ---
