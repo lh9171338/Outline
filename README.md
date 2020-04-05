@@ -38,13 +38,15 @@
   
 - MFC
 
-  
 - Android
   - [Bluebooth](https://github.com/lh9171338/Bluetooth)
   - [Joypad](https://github.com/lh9171338/Joypad)  
   
-- Forked
+- Paper
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
+  - [Line-Segment-Detection-Papers](https://github.com/lh9171338/Line-Segment-Detection-Papers)(empty)
+  
+- Forked
   
 - Other
   - [Library-Management-System](https://github.com/lh9171338/Library-Management-System)
