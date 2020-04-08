@@ -53,7 +53,7 @@
   
 - Paper
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
-  - [Line-Segment-Detection-Papers](https://github.com/lh9171338/Line-Segment-Detection-Papers)(empty)
+  - [Line-Segment-Detection-Papers](https://github.com/lh9171338/Line-Segment-Detection-Papers)
   
 - Forked
   
