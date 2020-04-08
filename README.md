@@ -36,7 +36,8 @@
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
   - [HLS](https://github.com/lh9171338/HLS)
   
-- MFC
+- [MFC](https://github.com/lh9171338/MFC)
+  - [Control](https://github.com/lh9171338/HLS)
 
 - Android
   - [Bluebooth](https://github.com/lh9171338/Bluetooth)
