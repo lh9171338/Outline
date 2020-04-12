@@ -15,7 +15,7 @@
   - [Path-Planning-Algorithms](https://github.com/lh9171338/Path-Planning-Algorithms)
   - [Signal-Processing-Algorithms](https://github.com/lh9171338/Signal-Processing-Algorithms)
   - [PID](https://github.com/lh9171338/PID/tree/Matlab)
-  - [RIFT](https://github.com/lh9171338/RIFT/tree/Matlab)(empty)
+  - [RIFT](https://github.com/lh9171338/RIFT/tree/Matlab)
   
 - Opencv
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
