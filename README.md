@@ -56,6 +56,7 @@
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
   - [Line-Segment-Detection-Papers](https://github.com/lh9171338/Line-Segment-Detection-Papers)
   - [Room-Layout-Estimation-Papers](https://github.com/lh9171338/Room-Layout-Estimation-Papers)
+  - [Monocular-Depth-Estimation-Papers](https://github.com/lh9171338/Monocular-Depth-Estimation-Papers) 
   
 - Forked
   - [3D-Machine-Learning](https://github.com/lh9171338/3D-Machine-Learning)
