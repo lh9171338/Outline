@@ -3,7 +3,7 @@
 
 # 2. Outline
 - Work
-  - [Spherical-Hough-Transform](https://github.com/lh9171338/Spherical-Hough-Transform)(empty)
+  - [Spherical-Hough-Transform](https://github.com/lh9171338/Spherical-Hough-Transform)
 
 - ROS
   - [Astar](https://github.com/lh9171338/Astar)
