@@ -1,5 +1,5 @@
 # 1. Introduction
->>This repository is the outline of my github.
+>>This repository is the outline of my Github.
 
 # 2. Outline
 - Work
