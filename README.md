@@ -37,8 +37,8 @@
   - [Ceres-Demo](https://github.com/lh9171338/Ceres-Demo)(private)
   
 - Python
-  - [PyTorch](https://github.com/lh9171338/PyTorch)(private)
-  - [TensorFlow](https://github.com/lh9171338/TensorFlow)(private)
+  - [PyTorch](https://github.com/lh9171338/PyTorch)
+  - [TensorFlow](https://github.com/lh9171338/TensorFlow)
   - [Spider](https://github.com/lh9171338/Spider)
   - [Regiongrow](https://github.com/lh9171338/Regiongrow)(private)
   
