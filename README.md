@@ -24,7 +24,7 @@
   - [PID](https://github.com/lh9171338/PID/tree/Matlab)
   - [RIFT](https://github.com/lh9171338/RIFT/tree/Matlab)
   
-- Opencv
+- C++
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
   - [Opencv-Demo(opencv入门教程代码)](https://github.com/lh9171338/Opencv-Demo.git)  
   - [SLAM-Book(视觉SLAM十四讲代码)](https://github.com/lh9171338/SLAM-Book)
@@ -34,7 +34,7 @@
   - [Curve-Fitting](https://github.com/lh9171338/Curve-Fitting)
   - [Structured-Edge-Detection](https://github.com/lh9171338/Structured-Edge-Detection)
   - [RIFT](https://github.com/lh9171338/RIFT/tree/Opencv)
-  - [Ceres-Demo](https://github.com/lh9171338/Ceres-Demo)(private)
+  - [Ceres-Demo](https://github.com/lh9171338/Ceres-Demo)
   
 - Python
   - [PyTorch](https://github.com/lh9171338/PyTorch)
