@@ -30,6 +30,7 @@
   - [Ceres-Windows](https://github.com/lh9171338/Ceres-Windows)
   - [Eigen-Windows](https://github.com/lh9171338/Eigen-Windows)
   - [Opencv-Demo(opencv入门教程代码)](https://github.com/lh9171338/Opencv-Demo.git)  
+  - [Ceres-Demo](https://github.com/lh9171338/Ceres-Demo)
   - [SLAM-Book(视觉SLAM十四讲代码)](https://github.com/lh9171338/SLAM-Book)
   - [Camera-Calibration](https://github.com/lh9171338/Camera-Calibration)
   - [Fiducial-Marker](https://github.com/lh9171338/Fiducial-Marker)
@@ -37,7 +38,6 @@
   - [Curve-Fitting](https://github.com/lh9171338/Curve-Fitting)
   - [Structured-Edge-Detection](https://github.com/lh9171338/Structured-Edge-Detection)
   - [RIFT](https://github.com/lh9171338/RIFT/tree/Opencv)
-  - [Ceres-Demo](https://github.com/lh9171338/Ceres-Demo)
   
 - Python
   - [PyTorch](https://github.com/lh9171338/PyTorch)
