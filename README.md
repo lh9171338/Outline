@@ -43,7 +43,7 @@
   - [PyTorch](https://github.com/lh9171338/PyTorch)
   - [TensorFlow](https://github.com/lh9171338/TensorFlow)
   - [Spider](https://github.com/lh9171338/Spider)
-  - [Regiongrow](https://github.com/lh9171338/Regiongrow)(private)
+  - [Region-Growing](https://github.com/lh9171338/Region-Growing)(private)
   
 - FPGA
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
