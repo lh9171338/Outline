@@ -5,7 +5,7 @@
 - Work
   - [Spherical-Hough-Transform](https://github.com/lh9171338/Spherical-Hough-Transform)
   - [ULSD-ISPRS](https://github.com/lh9171338/ULSD-ISPRS)
-  - [Unified Line Segment Detection](https://github.com/lh9171338/Unified-Line-Segment-Detection) 
+  - [Unified-Line-Segment-Detection](https://github.com/lh9171338/Unified-Line-Segment-Detection) 
   - [Labelline](https://github.com/lh9171338/Labelline)
 
 - ROS
