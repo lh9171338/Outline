@@ -44,6 +44,7 @@
   - [TensorFlow](https://github.com/lh9171338/TensorFlow)
   - [Spider](https://github.com/lh9171338/Spider)
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)(private)
+  - [Military-Chess](https://github.com/lh9171338/Military-Chess)
   
 - FPGA
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
