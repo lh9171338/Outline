@@ -4,13 +4,13 @@
 # 2. Outline
 - Work
   - [Spherical-Hough-Transform](https://github.com/lh9171338/Spherical-Hough-Transform)
-  - [ULSD-ISPRS](https://github.com/lh9171338/ULSD-ISPRS)![GitHub stars](https://img.shields.io/github/stars/lh9171338/ULSD-ISPRS.svg?logo=github&label=Stars)
-  - [Unified-Line-Segment-Detection](https://github.com/lh9171338/Unified-Line-Segment-Detection)![GitHub stars](https://img.shields.io/github/stars/lh9171338/Unified-Line-Segment-Detection.svg?logo=github&label=Stars)
-  - [Labelline](https://github.com/lh9171338/Labelline)![GitHub stars](https://img.shields.io/github/stars/lh9171338/Labelline.svg?logo=github&label=Stars)
+  - [ULSD-ISPRS](https://github.com/lh9171338/ULSD-ISPRS)
+  - [Unified-Line-Segment-Detection](https://github.com/lh9171338/Unified-Line-Segment-Detection)
+  - [Labelline](https://github.com/lh9171338/Labelline)
 
 - ROS
-  - [Astar](https://github.com/lh9171338/Astar)![GitHub stars](https://img.shields.io/github/stars/lh9171338/Astar.svg?logo=github&label=Stars)
-  - [Dijkstra](https://github.com/lh9171338/Dijkstra)![GitHub stars](https://img.shields.io/github/stars/lh9171338/Dijkstra.svg?logo=github&label=Stars)
+  - [Astar](https://github.com/lh9171338/Astar)
+  - [Dijkstra](https://github.com/lh9171338/Dijkstra)
   - [PID](https://github.com/lh9171338/PID/tree/ROS)
   - [UAV-UGV-Target-Search](https://github.com/lh9171338/UAV-UGV-Target-Search)
   - [USB-Camera](https://github.com/lh9171338/USB-Camera)
@@ -67,7 +67,7 @@
   
 - Paper
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
-  - [Line-Segment-Detection-Papers](https://github.com/lh9171338/Line-Segment-Detection-Papers)![GitHub stars](https://img.shields.io/github/stars/lh9171338/Line-Segment-Detection-Papers.svg?logo=github&label=Stars)
+  - [Line-Segment-Detection-Papers](https://github.com/lh9171338/Line-Segment-Detection-Papers)
   - [Room-Layout-Estimation-Papers](https://github.com/lh9171338/Room-Layout-Estimation-Papers)
   - [Monocular-Depth-Estimation-Papers](https://github.com/lh9171338/Monocular-Depth-Estimation-Papers) 
   - [Road-Extraction-Papers](https://github.com/lh9171338/Road-Extraction-Papers)
