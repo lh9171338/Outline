@@ -48,6 +48,7 @@
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)(private)
   - [Military-Chess](https://github.com/lh9171338/Military-Chess)
   - [MNIST-Classify](https://github.com/lh9171338/MNIST-Classify)
+  - [Localization](https://github.com/lh9171338/Localization)(private)
   
 - FPGA
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
