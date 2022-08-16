@@ -40,7 +40,7 @@
   - [Baiduyun-AI](https://github.com/lh9171338/Baiduyun-AI)(private)
   - [Military-Chess](https://github.com/lh9171338/Military-Chess)
   - [MNIST-Classify](https://github.com/lh9171338/MNIST-Classify)
-  - [Region-Growing](https://github.com/lh9171338/Region-Growing)(private)
+  - [Region-Growing](https://github.com/lh9171338/Region-Growing)
   - [Localization](https://github.com/lh9171338/Localization)(private)
 
 ## C++
