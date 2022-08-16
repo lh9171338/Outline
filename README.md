@@ -45,7 +45,7 @@
 - Python
   - [PyTorch-Tutorial](https://github.com/lh9171338/PyTorch-Tutorial)
   - [TensorFlow-Tutorial](https://github.com/lh9171338/TensorFlow-Tutorial)
-  - [TensorFlow-Tutorial](https://github.com/lh9171338/NpNet-Tutorial)
+  - [NpNet-Tutorial](https://github.com/lh9171338/NpNet-Tutorial)
   - [Aliyun-AI](https://github.com/lh9171338/Aliyun-AI)(private)
   - [Baiduyun-AI](https://github.com/lh9171338/Baiduyun-AI)(private)
   - [Spider](https://github.com/lh9171338/Spider)
