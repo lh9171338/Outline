@@ -43,15 +43,15 @@
   - [MONO-ORB-SLAM2](https://github.com/lh9171338/MONO-ORB-SLAM2)
   
 - Python
-  - [PyTorch](https://github.com/lh9171338/PyTorch)
-  - [TensorFlow](https://github.com/lh9171338/TensorFlow)
+  - [PyTorch-Tutorial](https://github.com/lh9171338/PyTorch-Tutorial)
+  - [TensorFlow-Tutorial](https://github.com/lh9171338/TensorFlow-Tutorial)
+  - [Aliyun-AI](https://github.com/lh9171338/Aliyun-AI)(private)
+  - [Baiduyun-AI](https://github.com/lh9171338/Baiduyun-AI)(private)
   - [Spider](https://github.com/lh9171338/Spider)
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)(private)
   - [Military-Chess](https://github.com/lh9171338/Military-Chess)
   - [MNIST-Classify](https://github.com/lh9171338/MNIST-Classify)
   - [Localization](https://github.com/lh9171338/Localization)(private)
-  - [Aliyun-AI](https://github.com/lh9171338/Aliyun-AI)(private)
-  - [Baiduyun-AI](https://github.com/lh9171338/Baiduyun-AI)(private)
   
 - FPGA
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
