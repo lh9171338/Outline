@@ -41,7 +41,7 @@
   - [Military-Chess](https://github.com/lh9171338/Military-Chess)
   - [MNIST-Classify](https://github.com/lh9171338/MNIST-Classify)
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)
-  - [Localization](https://github.com/lh9171338/Localization)(private)
+  - [Localization](https://github.com/lh9171338/Localization)
 
 ## C++
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
