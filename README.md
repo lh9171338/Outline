@@ -99,6 +99,9 @@
   - [google-access-helper](https://github.com/lh9171338/google-access-helper)
   - [pytorch-OpCounter](https://github.com/lh9171338/pytorch-OpCounter)  
   - [PlotNeuralNet](https://github.com/lh9171338/PlotNeuralNet)
+  - [DeepLearning-500-questions](https://github.com/lh9171338/DeepLearning-500-questions)
+  - [programmer-job-blacklist](https://github.com/lh9171338/programmer-job-blacklist)
+  - [Algorithm_Interview_Notes-Chinese](https://github.com/lh9171338/Algorithm_Interview_Notes-Chinese)
   
 ## Other
   - [Library-Management-System](https://github.com/lh9171338/Library-Management-System)
