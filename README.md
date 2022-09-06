@@ -103,6 +103,7 @@
   - [programmer-job-blacklist](https://github.com/lh9171338/programmer-job-blacklist)
   - [Algorithm_Interview_Notes-Chinese](https://github.com/lh9171338/Algorithm_Interview_Notes-Chinese)
   - [interview](https://github.com/lh9171338/interview)
+  - [daily_morning](https://github.com/lh9171338/daily_morning)
   
 ## Other
   - [Library-Management-System](https://github.com/lh9171338/Library-Management-System)
