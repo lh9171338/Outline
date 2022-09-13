@@ -42,6 +42,7 @@
   - [MNIST-Classify](https://github.com/lh9171338/MNIST-Classify)
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)
   - [Localization](https://github.com/lh9171338/Localization)
+  - [Music-Downloader](https://github.com/lh9171338/Music-Downloader)
 
 ## C++
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
