@@ -60,6 +60,7 @@
   - [RIFT](https://github.com/lh9171338/RIFT/tree/Opencv)
   - [MONO-ORB-SLAM2](https://github.com/lh9171338/MONO-ORB-SLAM2)
   - [Sensor-Fusion](https://github.com/lh9171338/Sensor-Fusion)
+  - [IMU](https://github.com/lh9171338/IMU)
 
 ## Matlab
   - [SIFT](https://github.com/lh9171338/SIFT)
