@@ -44,6 +44,7 @@
   - [Localization](https://github.com/lh9171338/Localization)
   - [Music-Downloader](https://github.com/lh9171338/Music-Downloader)
   - [PaddleDetection](https://github.com/lh9171338/PaddleDetection)
+  - [PaddleLSD](https://github.com/lh9171338/PaddleLSD)
 
 ## C++
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
