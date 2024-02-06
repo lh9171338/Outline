@@ -43,6 +43,7 @@
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)
   - [Localization](https://github.com/lh9171338/Localization)
   - [Music-Downloader](https://github.com/lh9171338/Music-Downloader)
+  - [PaddleDetection](https://github.com/lh9171338/PaddleDetection)
 
 ## C++
   - [Opencv-Windows](https://github.com/lh9171338/Opencv-Windows)
