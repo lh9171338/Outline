@@ -43,7 +43,11 @@
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)
   - [Localization](https://github.com/lh9171338/Localization)
   - [Music-Downloader](https://github.com/lh9171338/Music-Downloader)
+
+## Paddle
   - [PaddleDetection](https://github.com/lh9171338/PaddleDetection)
+  - [PaddleSeg](https://github.com/lh9171338/PaddleSeg)
+  - [PaddleOP](https://github.com/lh9171338/PaddleOP)
   - [PaddleLSD](https://github.com/lh9171338/PaddleLSD)
 
 ## C++
