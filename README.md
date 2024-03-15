@@ -44,6 +44,7 @@
   - [Region-Growing](https://github.com/lh9171338/Region-Growing)
   - [Localization](https://github.com/lh9171338/Localization)
   - [Music-Downloader](https://github.com/lh9171338/Music-Downloader)
+  - [Sync-File](https://github.com/lh9171338/Sync-File)
 
 ## Paddle
   - [PaddleDetection](https://github.com/lh9171338/PaddleDetection)
