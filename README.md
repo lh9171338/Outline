@@ -3,6 +3,7 @@
   - [Work](#Work)
   - [Paper](#Paper)
   - [Python](#Python)
+  - [Paddle](#Paddle)
   - [C++](#C++)
   - [Matlab](#Matlab)
   - [ROS](#ROS)
