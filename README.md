@@ -38,6 +38,7 @@
   - [TensorFlow-Tutorial](https://github.com/lh9171338/TensorFlow-Tutorial)
   - [NpNet-Tutorial](https://github.com/lh9171338/NpNet-Tutorial)
   - [Scraping-Tutorial](https://github.com/lh9171338/Scraping-Tutorial)
+  - [Reinforcement-learning-Tutorial](https://github.com/lh9171338/Reinforcement-learning-with-tensorflow)
   - [Aliyun-AI](https://github.com/lh9171338/Aliyun-AI)(private)
   - [Baiduyun-AI](https://github.com/lh9171338/Baiduyun-AI)(private)
   - [Military-Chess](https://github.com/lh9171338/Military-Chess)
