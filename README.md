@@ -48,6 +48,7 @@
   - [Music-Downloader](https://github.com/lh9171338/Music-Downloader)
   - [Sync-File](https://github.com/lh9171338/Sync-File)
   - [RL-Maze](https://github.com/lh9171338/RL-Maze/tree/main)
+  - [Kserve-Demo](https://github.com/lh9171338/Kserve-Demo/tree/main)
 
 ## Paddle
   - [PaddleDetection](https://github.com/lh9171338/PaddleDetection)
