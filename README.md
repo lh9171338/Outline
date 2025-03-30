@@ -4,7 +4,7 @@
   - [Paper](#Paper)
   - [Python](#Python)
   - [Paddle](#Paddle)
-  - [C++](#C++)
+  - [C++](#C)
   - [Matlab](#Matlab)
   - [ROS](#ROS)
   - [FPGA](#FPGA)
