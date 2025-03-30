@@ -12,7 +12,7 @@
   - [Android](#Android)
   - [Forked](#Forked)
   - [Other](#Other)
-  - [教程](#教程)
+  
     
 # 1. Introduction
 >>This repository is the outline of my Github.
@@ -26,6 +26,7 @@
   - [lh-tool](https://github.com/lh9171338/lh-tool)
   - [lh-webtool](https://github.com/lh9171338/lh-webtool)
   - [FE-LSD](https://github.com/lh9171338/FE-LSD)
+  - [Blogs](https://github.com/lh9171338/Blogs)
 
 ## Paper
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
@@ -124,5 +125,3 @@
 ## Other
   - [Library-Management-System](https://github.com/lh9171338/Library-Management-System)
   - [WHU-Thesis](https://github.com/lh9171338/WHU-Thesis)
-
-## 教程
