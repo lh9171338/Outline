@@ -12,6 +12,7 @@
   - [Android](#Android)
   - [Forked](#Forked)
   - [Other](#Other)
+  - [教程](#教程)
     
 # 1. Introduction
 >>This repository is the outline of my Github.
@@ -123,3 +124,5 @@
 ## Other
   - [Library-Management-System](https://github.com/lh9171338/Library-Management-System)
   - [WHU-Thesis](https://github.com/lh9171338/WHU-Thesis)
+
+## 教程
