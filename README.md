@@ -26,7 +26,7 @@
   - [lh-tool](https://github.com/lh9171338/lh-tool)
   - [lh-webtool](https://github.com/lh9171338/lh-webtool)
   - [FE-LSD](https://github.com/lh9171338/FE-LSD)
-  - [Blogs](https://github.com/lh9171338/Blogs)
+  - [Blogs](https://github.com/lh9171338/Blogs)(private)
 
 ## Paper
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
@@ -51,6 +51,7 @@
   - [Sync-File](https://github.com/lh9171338/Sync-File)
   - [RL-Maze](https://github.com/lh9171338/RL-Maze/tree/main)
   - [Kserve-Demo](https://github.com/lh9171338/Kserve-Demo/tree/main)
+  - [How-to-use-Transformers](https://github.com/lh9171338/How-to-use-Transformers)
 
 ## Paddle
   - [PaddleDetection](https://github.com/lh9171338/PaddleDetection)
@@ -96,7 +97,7 @@
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
   - [HLS](https://github.com/lh9171338/HLS)
   
-## [MFC](https://github.com/lh9171338/MFC)
+## MFC
   - [Control(控件)](https://github.com/lh9171338/MFC/tree/Control)
   - [Calculator(计算器)](https://github.com/lh9171338/MFC/tree/Calculator)
   - [Player(播放器)](https://github.com/lh9171338/MFC/tree/Player)
