@@ -90,7 +90,7 @@
   - [PID](https://github.com/lh9171338/PID/tree/ROS)
   - [UAV-UGV-Target-Search](https://github.com/lh9171338/UAV-UGV-Target-Search)
   - [USB-Camera](https://github.com/lh9171338/USB-Camera)
-  - [Robot](https://github.com/lh9171338/Robot)(private)
+  - [Robot](https://github.com/lh9171338/Robot)
   
 ## FPGA
   - [FPGA-Image-Processing](https://github.com/lh9171338/FPGA-Image-Processing)
