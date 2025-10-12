@@ -128,3 +128,4 @@
 ## Other
   - [Library-Management-System](https://github.com/lh9171338/Library-Management-System)
   - [WHU-Thesis](https://github.com/lh9171338/WHU-Thesis)
+  - [latex-resume-cv](https://github.com/lh9171338/latex-resume-cv)(private)
