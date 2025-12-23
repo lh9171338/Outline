@@ -54,6 +54,7 @@
   - [RL-Maze](https://github.com/lh9171338/RL-Maze/tree/main)
   - [Kserve-Demo](https://github.com/lh9171338/Kserve-Demo/tree/main)
   - [How-to-use-Transformers](https://github.com/lh9171338/How-to-use-Transformers)
+  - [render-pdf2image](https://github.com/lh9171338/render-pdf2image)
 
 ## Paddle
   - [PaddleDetection](https://github.com/lh9171338/PaddleDetection)
