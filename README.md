@@ -29,7 +29,7 @@
   - [Blogs](https://github.com/lh9171338/Blogs)(private)
   - [SparseTransformer](https://github.com/lh9171338/SparseTransformer)
   - [points-in-rbbox](https://github.com/lh9171338/points-in-rbbox)
-  - [parallel-iterator](https://github.com/lh9171338/parallel-iterator)
+  - [iter-iterator](https://github.com/lh9171338/iter-iterator)
 
 ## Paper
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
