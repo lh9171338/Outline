@@ -30,6 +30,7 @@
   - [SparseTransformer](https://github.com/lh9171338/SparseTransformer)
   - [points-in-rbbox](https://github.com/lh9171338/points-in-rbbox)
   - [iter-executor](https://github.com/lh9171338/iter-executor)
+  - [goldtracker](https://github.com/lh9171338/goldtracker)
 
 ## Paper
   - [Edge-Detection-Papers](https://github.com/lh9171338/Edge-Detection-Papers)
